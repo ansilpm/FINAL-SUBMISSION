@@ -1,1 +1,1 @@
-#Object detection project
+#Object detection project.
